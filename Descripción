@@ -1,0 +1,10 @@
+#simulación de trayectorias
+
+#Este proyecto modela y simula un sistema dinámico utilizando ecuaciones diferenciales, con el objetivo
+de analizar su comportamiento bajo distintas condiciones iniciales
+
+permite modicficar velocidades, posiciones y el tiempo en el que se hará el analisis con el objetivo de encontrar
+le punto de intersección del objeto que persigue y el objeto objetivo
+
+OBJETIVO:
+Analizar estabilidad y evolución temporal del sistema mediante simulación computacional.
